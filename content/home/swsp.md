@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: blank
 
 # This file represents a page section.
 headless: true
@@ -31,11 +31,13 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
+# Section design
 design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: 2
+  # Use a 2-column layout
+  columns: "2"
 ---
+- Member, International Organization of PKU, 2021.10-2022.2
+- Backbone, Youth League Committee of PKU, 2021.4-2022.2
+- Deputy Minister, Youth League Committee of SSPKU, 2020.10-2021.10
+- Volunteer, National Fencing Championships, 2019.11
+- Deputy monitor, Xidian University, 2016-2020 

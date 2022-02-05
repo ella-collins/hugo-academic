@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: blank
 
 # This file represents a page section.
 headless: true
@@ -31,11 +31,16 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
+# Section design
 design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: 2
+  # Use a 2-column layout
+  columns: "2"
+  # Use a dark navy background with light text.
+  background:
+    color: '#f7f7f7'
+    text_color_light: false
 ---
+
+- **Yangtze River Delta Universities Mathematical Contest in Modeling**, the second prize, July 2021 
+- **Mathematical Contest in Modeling**, the first prize, Apr. 2019
+- **The Chinese Mathematics Competitions**, the first prize, Nov. 2018
