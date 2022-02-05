@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: ME in Computer Engineer
+  - course: ME in Computer Engineer
     institution: Peking University
     year: 2020-2023 (Expected)
   - course: BSc in Computer Science and Technology
