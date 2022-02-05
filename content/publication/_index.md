@@ -9,7 +9,7 @@ cms_exclude: true
 #   4 = Citation
 #   5 = Showcase
 #       masonry
-view: list
+view: compact
 
 # Optional header image (relative to `static/media/` folder).
 header:
