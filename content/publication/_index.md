@@ -7,7 +7,8 @@ cms_exclude: true
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 4
+#   5 = Showcase
+view: Showcase
 
 # Optional header image (relative to `static/media/` folder).
 header:
