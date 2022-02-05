@@ -1,5 +1,5 @@
 ---
-title: "兼容异构数据的稳定评估模型"
+title: ["兼容异构数据的稳定评估模型"](https://www.pku.edu.cn/)
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
