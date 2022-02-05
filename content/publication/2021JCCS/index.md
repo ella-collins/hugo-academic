@@ -29,7 +29,6 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: In *Wowchemy Conference*
 publication_short: In *JCCS*
-
 abstract: Test Ab.
 
 # Summary. An optional shortened abstract.

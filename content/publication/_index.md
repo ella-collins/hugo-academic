@@ -1,6 +1,6 @@
 ---
 title: Publications
-cms_exclude: true
+cms_exclude: false
 
 # View.
 #   1 = List
@@ -9,7 +9,7 @@ cms_exclude: true
 #   4 = Citation
 #   5 = Showcase
 #       masonry
-view: compact
+view: list
 
 # Optional header image (relative to `static/media/` folder).
 header:
