@@ -30,4 +30,3 @@ design:
 - Outstanding Graduates Award, Xidian University, May 2020
 - Innovation Paragon, Xidian University, Oct. 2019
 - National Scholarship, Xidian University, Oct. 2019
-- test
