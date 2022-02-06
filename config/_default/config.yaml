@@ -5,7 +5,7 @@
 
 title: Jiahua Chen # Website name
 baseurl: 'https://jiahuachen.top' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: 'Last Update: Feb 2022 ' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
