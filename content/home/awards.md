@@ -13,7 +13,7 @@ weight: 20
 title: 'Awards'
 
 # Section subtitle
-subtitle: 'Format: Award, Committee, Date'
+subtitle: 'Award, Committee, Date'
 
 # Section design
 design:
